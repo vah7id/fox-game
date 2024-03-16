@@ -1,0 +1,53 @@
+body {
+  background: #ecebe9;
+  margin: 0;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button, input {
+  margin: 16px;
+  padding: 8px 16px;
+}
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  max-width: 600px;
+  flex-wrap: wrap;
+  margin-top: 32px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-start {
+  align-items: flex-start;
+}
+
+.flex-end {
+  align-items: flex-end;
+}
+
+table {
+  margin: 32px;
+  text-align: left;
+  min-width: 500px;
+}
+
+button.btn-primary {
+  background-color: orange;
+}
+
+.stats h2 {
+  margin-right: 32px;
+}

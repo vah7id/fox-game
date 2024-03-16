@@ -1,0 +1,5 @@
+const TOTAL_GAME_DURATION = 30;
+
+export {
+    TOTAL_GAME_DURATION,
+}
