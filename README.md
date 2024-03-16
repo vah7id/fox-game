@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed on Vercel | [Demo Link](https://github.com/vah7id/fox-game)
+
 ## How to run
 
 In the project directory, you can run:
